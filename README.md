@@ -27,6 +27,13 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 ## Analysis Generated
 
 The Investment Advisor project yields the following key analyses:
+![in1](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/6e81dc3f-0daf-4432-b45d-4bda509bc306)
+![in2](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/fe50804b-367a-46d8-a4d6-756621c8d01c)
+![in3](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/f049835f-8ff7-4de5-bb7d-812f30fb854d)
+![in4](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/b5d191c0-a30a-4723-b804-55871ff3d0de)
+
+
+
 
 - **Risk Categorization**: By leveraging an innovative risk assessment framework, the project categorizes companies into four distinct risk categories: high risk-taking, moderate risk-taking, risk-taking, and low risk-taking. This allows investors to align their investment strategies with their desired risk appetite.
 

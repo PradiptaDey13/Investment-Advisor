@@ -6,6 +6,7 @@ Suggesting Best Companies to Invest
 The Investment Advisor project is a highly sophisticated data analytics endeavor that empowers investors with data-driven insights for making informed investment decisions. By categorizing companies based on risk and suggesting top investment opportunities, this project provides a comprehensive solution for maximizing investment potential. Leveraging financial data, ratios, and market information, Investment Advisor aims to streamline the decision-making process and optimize investment outcomes.
 
 ## Data Dictionar
+![Alt text](in1-1.JPG)
 
 
 ## Steps Involved
@@ -13,7 +14,7 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 1. **Data Collection**: Acquired an extensive dataset comprising 500 companies listed on the esteemed Bombay Stock Exchange (BSE). The dataset encompasses vital stock information, essential financial ratios, and detailed sector and industry classifications.
 
 2. **Data Preprocessing**: Employed meticulous data preprocessing techniques to ensure data integrity, consistency, and accuracy. This involved cleansing the dataset, addressing missing values, and validating data coherence to establish a robust foundation for subsequent analyses.
-
+![Alt text](in2.JPG)
 
 3. **Risk Categorization**:
    - Introduced a novel metric, "Delta," by calculating the percentage change between the current stock price and the 52-week high.

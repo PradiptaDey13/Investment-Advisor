@@ -65,6 +65,8 @@ In conclusion, the Investment Advisor project represents a highly sophisticated 
 Through the rigorous steps involved in data collection, preprocessing, and risk categorization, Investment Advisor offers users a comprehensive understanding of the risk profiles of various companies. The project's ability to identify the top investment opportunities within each risk category, based on dividend per share, enables investors to strategically allocate their capital.
 
 The calculation of the "money available for investment" based on income and expense analysis provides investors with a clear understanding of their financial resources, allowing for effective investment planning.
+## Chalanges faced
+Despite its advanced data analytics capabilities, the Investment Advisor project faces the formidable challenge of continuously sourcing and maintaining accurate, up-to-date financial data, ratios, and market information from diverse sources to ensure the reliability and relevance of its investment recommendations.
 
 Looking ahead, the Investment Advisor project has great potential for further enhancements. Integration of real-time stock data feeds would ensure up-to-date information, while the incorporation of machine learning algorithms could enhance the accuracy and sophistication of risk categorization. Integration with investment platforms and the development of a user-friendly interface would further streamline the investment process and enhance user experience.
 

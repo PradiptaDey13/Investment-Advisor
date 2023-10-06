@@ -16,7 +16,7 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 
 1. **Data Collection**: Acquired an extensive dataset comprising 500 companies listed on the esteemed Bombay Stock Exchange (BSE). The dataset encompasses vital stock information, essential financial ratios, and detailed sector and industry classifications.
 
-2. **Data Preprocessing**: Employed meticulous data preprocessing techniques to ensure data integrity, consistency, and accuracy. This involved cleansing the dataset, addressing missing values, and validating data coherence to establish a robust foundation for subsequent analyses.
+2. **Data Preprocessing by Excel**: Employed meticulous data preprocessing techniques to ensure data integrity, consistency, and accuracy. This involved cleansing the dataset, addressing missing values, and validating data coherence to establish a robust foundation for subsequent analyses.
 
 
 3. **Risk Categorization**:

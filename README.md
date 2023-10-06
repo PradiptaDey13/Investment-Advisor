@@ -6,9 +6,7 @@ Suggesting Best Companies to Invest
 The Investment Advisor project is a highly sophisticated data analytics endeavor that empowers investors with data-driven insights for making informed investment decisions. By categorizing companies based on risk and suggesting top investment opportunities, this project provides a comprehensive solution for maximizing investment potential. Leveraging financial data, ratios, and market information, Investment Advisor aims to streamline the decision-making process and optimize investment outcomes.
 
 
-## Data Dictionar
-![**Alt text**](in1.JPG)
-=======
+
 ## Data Dictionary
 ![in1](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/6bb17b70-b575-447d-a0a6-cdbedc5ad8ae)
 ## Our Apporaches for the Project
@@ -16,7 +14,6 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 
 
 
-=======
 
 
 ## Steps Involved

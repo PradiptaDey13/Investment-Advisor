@@ -7,6 +7,9 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 
 ## Data Dictionary
 ![in1](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/6bb17b70-b575-447d-a0a6-cdbedc5ad8ae)
+## Our Apporaches for the Project
+![in2](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/47f7daf1-97e0-4dbf-b186-4d530cbc7b24)
+
 
 
 ## Steps Involved
@@ -14,7 +17,6 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 1. **Data Collection**: Acquired an extensive dataset comprising 500 companies listed on the esteemed Bombay Stock Exchange (BSE). The dataset encompasses vital stock information, essential financial ratios, and detailed sector and industry classifications.
 
 2. **Data Preprocessing**: Employed meticulous data preprocessing techniques to ensure data integrity, consistency, and accuracy. This involved cleansing the dataset, addressing missing values, and validating data coherence to establish a robust foundation for subsequent analyses.
-![in2](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/47f7daf1-97e0-4dbf-b186-4d530cbc7b24)
 
 
 3. **Risk Categorization**:

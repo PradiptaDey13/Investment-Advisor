@@ -5,13 +5,20 @@ Suggesting Best Companies to Invest
 
 The Investment Advisor project is a highly sophisticated data analytics endeavor that empowers investors with data-driven insights for making informed investment decisions. By categorizing companies based on risk and suggesting top investment opportunities, this project provides a comprehensive solution for maximizing investment potential. Leveraging financial data, ratios, and market information, Investment Advisor aims to streamline the decision-making process and optimize investment outcomes.
 
+
+## Data Dictionar
+![**Alt text**](in1.JPG)
+=======
 ## Data Dictionary
 ![in1](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/6bb17b70-b575-447d-a0a6-cdbedc5ad8ae)
 ## Our Apporaches for the Project
 ![in2](https://github.com/PradiptaDey13/Investment-Advisor/assets/136356722/47f7daf1-97e0-4dbf-b186-4d530cbc7b24)
+>>>>>>> df34e2ec68a763fdaaf316d59623061de8174450
+
+=======
 
 
-
+>>>>>>> df34e2ec68a763fdaaf316d59623061de8174450
 ## Steps Involved
 
 1. **Data Collection**: Acquired an extensive dataset comprising 500 companies listed on the esteemed Bombay Stock Exchange (BSE). The dataset encompasses vital stock information, essential financial ratios, and detailed sector and industry classifications.
@@ -73,3 +80,6 @@ Despite its advanced data analytics capabilities, the Investment Advisor project
 Looking ahead, the Investment Advisor project has great potential for further enhancements. Integration of real-time stock data feeds would ensure up-to-date information, while the incorporation of machine learning algorithms could enhance the accuracy and sophistication of risk categorization. Integration with investment platforms and the development of a user-friendly interface would further streamline the investment process and enhance user experience.
 
 By leveraging data analytics and intelligent insights, the Investment Advisor project aims to empower investors to make informed decisions, reduce risks, and optimize investment outcomes.
+
+
+[def]: in1.JPG

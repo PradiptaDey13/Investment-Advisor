@@ -52,6 +52,9 @@ The Investment Advisor project yields the following key analyses:
 - **Top Investment Opportunities**: Through rigorous analysis and meticulous filtering, the project identifies and presents the top five investment opportunities within each risk category. These recommendations are driven by comprehensive evaluations of dividend per share, ensuring the selection of high-potential investment options.
 
 - **Money Available for Investment**: By analyzing income and expense data, the project calculates the "money available for investment." This crucial metric provides investors with a clear understanding of their financial resources for optimal investment allocation.
+- **Conclusion**: This project when further advanced would also help in figuring out your net expenditure given your income and expenses. As it is divided in four category High Risk Taking, Low Risk Taking, Moderate Risk taking and Risk Taking. 
+
+
 
 ## Future Scope
 
